@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/beranda_menu"
+        android:title="@string/Beranda"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/histori_menu"
+        android:title="@string/Histori"
+        android:icon="@drawable/ic_history_black_24dp"/>
+
+    <item
+        android:id="@+id/kosakata_menu"
+        android:title="@string/Kosakata"
+        android:icon="@drawable/ic_add_circle_black_24dp"/>
+    <item
+        android:id="@+id/tentang_menu"
+        android:title="@string/Tentang"
+        android:icon="@drawable/ic_info_black_24dp"/>
+
+</menu>

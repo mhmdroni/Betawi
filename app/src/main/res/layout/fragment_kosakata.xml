@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="@string/kontribusi" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:paddingTop="10dp"
+        android:text="@string/bahasa_betawi" />
+
+    <EditText
+        android:id="@+id/masukkan_katabtw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/bahasa_btw"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:paddingTop="10dp"
+        android:text="@string/bahasa_indonesia" />
+
+    <EditText
+        android:id="@+id/masukkan_kataind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/bahasa_ind"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/btn_kosakata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kirim_kata" />
+</LinearLayout>

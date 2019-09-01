@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kamus Betawi - Indonesia</string>
+    <string name="Beranda">Beranda</string>
+    <string name="Histori">Histori</string>
+    <string name="Kosakata">Kosakata</string>
+    <string name="Tentang">Tentang</string>
+    <string name="ocr">OCR</string>
+    <string name="terjemah">Terjemah</string>
+    <string name="waktu">Waktu</string>
+    <string name="hasil_terjemah">Hasil Terjemah</string>
+    <string name="informa">Aplikasi ini merupakan hasil dari tugas akhir yang merupakan syarat untuk menyelesaikan pendidikan Strata 1 pada jurusan informatika Universitas Islam Negeri Sunan Gunung Djati Bandung.</string>
+    <string name="kontribusi">Ayo berkontribusi agar kami bisa menjadi lebih lengkap dan senantiasa dapat membantu dalam memahami bahasa betawi</string>
+    <string name="bahasa_betawi">Bahasa Betawi</string>
+    <string name="bahasa_btw">Masukkan Kata</string>
+    <string name="masukkan_teks">Masukkan Teks</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="bahasa_ind">Masukkan Kata</string>
+    <string name="kirim_kata">Kirim Kata</string>
+
+    <string-array name="algoritma">
+        <item>Boyer Moore</item>
+        <item>Horspool</item>
+    </string-array>
+</resources>
